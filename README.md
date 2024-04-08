@@ -25,6 +25,8 @@ Je suis également le créateur de deux bots Discord actuellement en version bê
 
 1. **Dils** : Un bot de sécurité et d'analyse qui vous permet de sécuriser votre serveur et de réduire le travail des modérateurs en effectuant toutes les tâches automatiquement.
 2. **Dast** : Un outil conçu pour aider les serveurs à personnaliser leurs paramètres facilement.
+
+
 [Le serveur de support de Dils et Dast]([https://discord.gg/exemple](https://discord.gg/bA6UfvZwgN))
 
 <h2 align="center">
