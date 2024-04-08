@@ -1,8 +1,8 @@
-### Hello there...
+<h1 align="center">Hello there, I'm Meiiosei</h1>
 
 --------
 
-[English version]
+###[English version]
 
 Hi, I'm Flo, a French developer. I mainly work with Python, but I also have a lot of experience with HTML, CSS, and JavaScript.
 
@@ -15,7 +15,7 @@ I'm also the creator of two Discord bots which are currently in beta:
 
 --------
 
-[French Version]
+###[French Version]
 
 Salut, je suis Flo, un développeur français. Je travaille principalement avec Python, mais j'ai également une bonne expérience en HTML, CSS et JavaScript.
 
@@ -26,7 +26,7 @@ Je suis également le créateur de deux bots Discord actuellement en version bê
 1. **Dils** : Un bot de sécurité et d'analyse qui vous permet de sécuriser votre serveur et de réduire le stress des modérateurs en effectuant toutes les tâches.
 2. **Dast** : Un outil conçu pour aider les serveurs à personnaliser leurs paramètres facilement.
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/200px-CSS3_logo_and_wordmark.svg.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/200px-JavaScript-logo.png)
+![Profile Views](https://komarev.com/ghpvc/?username=phenom4n4n)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meiiosei&show_icons=true&locale=en&theme=dark" alt="Meiiosei" /></p>
+
+![Metrics](https://metrics.lecoq.io/Meiiosei?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&language)
