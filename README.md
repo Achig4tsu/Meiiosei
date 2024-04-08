@@ -23,8 +23,9 @@ Je travaille actuellement sur un projet de groupe : El-goog. Le principe est ass
 
 Je suis également le créateur de deux bots Discord actuellement en version bêta :
 
-1. **Dils** : Un bot de sécurité et d'analyse qui vous permet de sécuriser votre serveur et de réduire le stress des modérateurs en effectuant toutes les tâches.
+1. **Dils** : Un bot de sécurité et d'analyse qui vous permet de sécuriser votre serveur et de réduire le travail des modérateurs en effectuant toutes les tâches automatiquement.
 2. **Dast** : Un outil conçu pour aider les serveurs à personnaliser leurs paramètres facilement.
+[Le serveur de support de Dils et Dast]([https://discord.gg/exemple](https://discord.gg/bA6UfvZwgN))
 
 <h2 align="center">
   
