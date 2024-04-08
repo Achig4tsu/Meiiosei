@@ -2,7 +2,7 @@
 
 --------
 
-###[English version]
+### [English version]
 
 Hi, I'm Flo, a French developer. I mainly work with Python, but I also have a lot of experience with HTML, CSS, and JavaScript.
 
@@ -15,7 +15,7 @@ I'm also the creator of two Discord bots which are currently in beta:
 
 --------
 
-###[French Version]
+### [French Version]
 
 Salut, je suis Flo, un développeur français. Je travaille principalement avec Python, mais j'ai également une bonne expérience en HTML, CSS et JavaScript.
 
