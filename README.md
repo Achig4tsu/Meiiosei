@@ -26,7 +26,7 @@ Je suis également le créateur de deux bots Discord actuellement en version bê
 1. **Dils** : Un bot de sécurité et d'analyse qui vous permet de sécuriser votre serveur et de réduire le stress des modérateurs en effectuant toutes les tâches.
 2. **Dast** : Un outil conçu pour aider les serveurs à personnaliser leurs paramètres facilement.
 
-![Profile Views](https://komarev.com/ghpvc/?username=phenom4n4n)
+![Profile Views](https://komarev.com/ghpvc/?username=Meiiosei)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meiiosei&show_icons=true&locale=en&theme=dark" alt="Meiiosei" /></p>
 
-![Metrics](https://metrics.lecoq.io/Meiiosei?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&language)
+![Metrics](https://metrics.lecoq.io/Meiiosei?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-
